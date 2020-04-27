@@ -1,119 +1,127 @@
 {
+  "awards": [
+    {
+      "awarder": "Company",
+      "date": "2019-12-20",
+      "summary": "Personal Achievement 2019",
+      "title": "Award"
+    }
+  ],
   "basics": {
-    "name": "Glen Connolly",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
     "email": "connollyglen93@gmail.com",
-    "phone": "(353) 85-760-6161",
-    "website": "http://johndoe.com",
+    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
+    "label": "developer",
     "location": {
-        "city": "Dublin",
-        "countryCode": "ROI",
-        "region": "Ireland"
+      "city": "Dublin",
+      "countryCode": "ROI",
+      "region": "Ireland"
     },
+    "name": "Glen Connolly",
+    "phone": "(353) 85-760-6161",
+    "profiles": [
+      {
+        "network": "Dev",
+        "url": "https://dev.to/connollyglen93",
+        "username": "connollyglen93"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/connollyglen93",
+        "username": "connollyglen93"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/connollyglen/",
+        "username": "connollyglen"
+      }
+    ],
     "summary": "Someone who considers themselves very fortunate to have found something which they are truely passionate about, and as a bonus gets to do it as a profession",
-    "profiles": [{
-                  "network": "Dev",
-                  "username": "connollyglen93",
-                  "url": "https://dev.to/connollyglen93"
-                },
-                {
-                  "network": "Github",
-                  "username": "connollyglen93",
-                  "url": "https://github.com/connollyglen93"
-                },
-                {
-                  "network": "LinkedIn",
-                  "username": "connollyglen",
-                  "url": "https://www.linkedin.com/in/connollyglen/"
-                }
-                ]
+    "website": "http://johndoe.com"
   },
-  "work": [
-  {
-    "company": "Imagine Communications Group",
-    "highlights": [
-      "Gained more operational insight into development projects and learned a great deal about different perspectives and basic project management",
-      "Built a drive time calculating system for installation crews through Google maps APIs",
-      "Worked with major GIS' including Google Maps, Leaflet and Mapbox-GL to visualize large business datasets at optimal performance for marketing and project deployment",
-      "Played a key role in migrating the team's version control setup to Gitlab and redesigning the git workflow to regulate a constantly growing codebase",
-      "Mentored 3 Junior developers while continuing to meet deadlines assigned both to the team and directly to me",
-      "Introduced weekly developer meetings to address concerns or suggestions relating to workflows and processes within the team, and new technologies which could be implemented"
-    ],
-    "position": "PHP Developer",
-    "startDate": "2018-12-01",
-    "endDate": "Now",
-    "summary": "Continued to work at Imagine Communications Group as a Mid Level PHP developer, with additional responsibilities",
-    "website": "https://www.imagine.ie/"
-  },
-  {
-    "company": "Imagine Communications Group",
-    "endDate": "2018-12-01",
-    "highlights": [
-      "Provisioned and managed web applications primarily in PHP to meet business requirements and manage system processes.",
-      "Developed an anonymization application to comply with the Government Data Protection Regulation’s Right to Erasure",
-      "Created an Analytics tool which monitors and visually displays Restful API calls by week, day and hour, and database activity across our systems.",
-      "Built full-stack web applications based on PHP, Zend Framework, JavaScript, MySQL, Apache and Restful API services"
-    ],
-    "position": "PHP Developer",
-    "startDate": "2017-05-01",
-    "summary": "Commenced work at Imagine Communications Group as a Junior PHP developer",
-    "website": "https://www.imagine.ie/"
-  },
-  {
-    "company": "Imagine Communications Group",
-    "endDate": "2017-05-01",
-    "highlights": [
-      "Provided a high level of technical support to customers, working with them to resolve end user problems on a broad base of wireless and fixed-line technologies.",
-      "Communicated and collaborated with relevant departments and divisions within the company when resolving customer issues"
-    ],
-    "position": "Technical Support Agent",
-    "startDate": "2016-05-01",
-    "summary": "Commenced work at Imagine Communications Group as a Technical Support Agent",
-    "website": "https://www.imagine.ie/"
-  }
-],
-  "volunteer": [],
-  "education": [{
-    "institution": "University",
-    "area": "Computer Science",
-    "studyType": "Bachelor",
-    "startDate": "2015-09-01",
-    "endDate": "2018-10-01",
-    "gpa": "3.6",
-    "courses": []
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2019-12-20",
-    "awarder": "Company",
-    "summary": "Personal Achievement 2019"
-  }],
-  "publications": [],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-    "PHP",
-    "SOAP",
-    "Node",
-    "Java",
-    "REST",
-    "JavaScript",
-    "MySQL",
-    "XML",
-    "JSON",
-    "Debian",
-    "Git",
-    "MongoDB"
-  ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
+  "education": [
+    {
+      "area": "Computer Science",
+      "courses": [],
+      "endDate": "2018-10-01",
+      "gpa": "3.6",
+      "institution": "University",
+      "startDate": "2015-09-01",
+      "studyType": "Bachelor"
+    }
+  ],
   "interests": [],
+  "languages": [
+    {
+      "fluency": "Native speaker",
+      "language": "English"
+    }
+  ],
+  "projects": [],
+  "publications": [],
   "references": [],
-  "projects": [
+  "skills": [
+    {
+      "keywords": [
+        "PHP",
+        "SOAP",
+        "Node",
+        "Java",
+        "REST",
+        "JavaScript",
+        "MySQL",
+        "XML",
+        "JSON",
+        "Debian",
+        "Git",
+        "MongoDB"
+      ],
+      "level": "Master",
+      "name": "Web Development"
+    }
+  ],
+  "volunteer": [],
+  "work": [
+    {
+      "company": "Imagine Communications Group",
+      "endDate": "Now",
+      "highlights": [
+        "Gained more operational insight into development projects and learned a great deal about different perspectives and basic project management",
+        "Built a drive time calculating system for installation crews through Google maps APIs",
+        "Worked with major GIS' including Google Maps, Leaflet and Mapbox-GL to visualize large business datasets at optimal performance for marketing and project deployment",
+        "Played a key role in migrating the team's version control setup to Gitlab and redesigning the git workflow to regulate a constantly growing codebase",
+        "Mentored 3 Junior developers while continuing to meet deadlines assigned both to the team and directly to me",
+        "Introduced weekly developer meetings to address concerns or suggestions relating to workflows and processes within the team, and new technologies which could be implemented"
+      ],
+      "position": "PHP Developer",
+      "startDate": "2018-12-01",
+      "summary": "Continued to work at Imagine Communications Group as a Mid Level PHP developer, with additional responsibilities",
+      "website": "https://www.imagine.ie/"
+    },
+    {
+      "company": "Imagine Communications Group",
+      "endDate": "2018-12-01",
+      "highlights": [
+        "Provisioned and managed web applications primarily in PHP to meet business requirements and manage system processes.",
+        "Developed an anonymization application to comply with the Government Data Protection Regulation’s Right to Erasure",
+        "Created an Analytics tool which monitors and visually displays Restful API calls by week, day and hour, and database activity across our systems.",
+        "Built full-stack web applications based on PHP, Zend Framework, JavaScript, MySQL, Apache and Restful API services"
+      ],
+      "position": "PHP Developer",
+      "startDate": "2017-05-01",
+      "summary": "Commenced work at Imagine Communications Group as a Junior PHP developer",
+      "website": "https://www.imagine.ie/"
+    },
+    {
+      "company": "Imagine Communications Group",
+      "endDate": "2017-05-01",
+      "highlights": [
+        "Provided a high level of technical support to customers, working with them to resolve end user problems on a broad base of wireless and fixed-line technologies.",
+        "Communicated and collaborated with relevant departments and divisions within the company when resolving customer issues"
+      ],
+      "position": "Technical Support Agent",
+      "startDate": "2016-05-01",
+      "summary": "Commenced work at Imagine Communications Group as a Technical Support Agent",
+      "website": "https://www.imagine.ie/"
+    }
   ]
 }
