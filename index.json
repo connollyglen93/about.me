@@ -60,18 +60,7 @@
   "skills": [
     {
       "keywords": [
-        "PHP",
-        "SOAP",
-        "Node",
-        "Java",
-        "REST",
-        "JavaScript",
-        "MySQL",
-        "XML",
-        "JSON",
-        "Debian",
-        "Git",
-        "MongoDB"
+	   "PHP", "Javascript", "Java", "C#", "Node.js", "SQL", "MySQL", "PostgreSQL", "MongoDB", "Apache", "Debian"
       ],
       "level": "Master",
       "name": "Web Development"
