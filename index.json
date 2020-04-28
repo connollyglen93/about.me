@@ -9,7 +9,7 @@
   ],
   "basics": {
     "email": "connollyglen93@gmail.com",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQHjFXz6E829gQ/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=qRiyyr97OI8rQO_9BxEpXeCH7pjD7rGrji_dbUhjjHo",
     "label": "developer",
     "location": {
       "city": "Dublin",
@@ -35,8 +35,7 @@
         "username": "connollyglen"
       }
     ],
-    "summary": "Someone who considers themselves very fortunate to have found something which they are truely passionate about, and as a bonus gets to do it as a profession",
-    "website": "http://johndoe.com"
+    "summary": "I am a dedicated developer who loves to design and build complex systems which do the work of hundreds of people in seconds. Since I first started writing code, I have always been fascinated by what is possible through software. I am also very good at finding the exciting within the most dull development projects, and I think that's what makes me a great software developer. No matter how mundane the project, I find utter enjoyment in implementing an excellent solution. I am doing what I love for a living.",
   },
   "education": [
     {
@@ -84,11 +83,12 @@
     {
       "company": "Imagine Communications Group",
       "highlights": [
-      "Stepped into a greater deal of responsibility; mentoring junior developers, hosting weekly standups and taking ownership of entire development projects",
-"Designed and built service delivery automations which consisted of but were not limited to; an optimized drive time calculation system for installation crews using Google maps APIs and a customer booking application which streamlined the customer installation date selection process.",
-"Gained a great deal of exposure working with major GIS tools including PostGIS, Google Maps, Leaflet and Mapbox-GL to visualize large business datasets at optimal performance for marketing and project deployment",
-"Played a key role in migrating the team's version control setup to Gitlab and redesigning the team's git workflow and release processes to regulate a constantly growing codebase",
-"Refactored and optimized multiple key components of the company's major business processes, including but not limited to reducing a customer viability check from seconds to a single centisecond."
+        "Stepped into a greater deal of responsibility; mentoring junior developers, hosting weekly standups and taking ownership of entire development projects",
+        "Designed and built service delivery automations which consisted of but were not limited to; an optimized drive time calculation system for installation crews using Google maps APIs and a customer booking application which streamlined the customer installation date selection process.",
+        "Gained a great deal of exposure working with major GIS tools including PostGIS, Google Maps, Leaflet and Mapbox-GL to visualize large business datasets at optimal performance for marketing and project deployment",
+        "Played a key role in migrating the team's version control setup to Gitlab and redesigning the team's git workflow and release processes to regulate a constantly growing codebase",
+        "Refactored and optimized multiple key components of the company's major business processes, including but not limited to reducing a customer viability check from seconds to a single centisecond.",
+        "Awarded a Personal Achievement Award for my contribution throughout 2019"
       ],
       "position": "PHP Developer",
       "startDate": "2018-12-01",
